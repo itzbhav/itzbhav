@@ -1,16 +1,64 @@
-## Hi there 👋
+# Bhavatharini C
 
-<!--
-**itzbhav/itzbhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer** — building production-grade RAG and multi-agent systems, from retrieval and modeling through to deployment.
 
-Here are some ideas to get you started:
+M.Sc. Decision and Computing Sciences @ Coimbatore Institute of Technology. Comfortable across the full path — retrieval, modeling, and shipping — with strong Python and SQL foundations. Currently focused on **RAG pipelines, multi-agent systems, and applied ML**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working on: retrieval-augmented and multi-agent systems in production
+- Interests: Data Engineering · Artificial Intelligence · Machine Learning · Automation Systems
+- Reach me: [LinkedIn](https://www.linkedin.com/in/bhavatharini-chandrasekar) · bhavatharini06@gmail.com
+
+---
+
+## Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**AI / ML**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+
+**Data & Analytics**
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Web**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Databases & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Experience
+
+**AI Developer Intern — KOTS Daily Services** (Jun 2025 – Dec 2025)
+Built Slack, JIRA, Notion, and Zoho agents on an enterprise multi-agent platform using FastAPI, Redis capability indexing, intent detection, and RAG-powered summarization. Implemented agent registration, discovery, and routing; standardized agents into ADK format.
+
+**Tech Intern — Econstru** (Dec 2025 – Jan 2026)
+Built a multimodal RAG assistant for a 500+ SKU lighting catalog — BGE + OpenCLIP embeddings in ChromaDB with hybrid relevance scoring (**80% retrieval accuracy**); deployed as a session-aware Flask app on Railway.
+
+---
+
+## GitHub Stats
+
+![Bhavatharini's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzbhav&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzbhav&layout=compact&hide_border=true)
+
+---
+
+<sub>Data Engineering · AI · ML · Automation — always building.</sub>
